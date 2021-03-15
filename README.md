@@ -15,4 +15,4 @@ If the float search area is not defined, the script will prompt you to select th
 Use F6 and  F7 to decrease or increase the sensitivity of the bobber search, respectively.
 The same for splash with ALT key pressed
 
-####  The script is not intended for dishonorable enrichment (although who is a saint here? ;) ) and is published for informational and demonstration purposes 
+####  The script is not intended for dishonorable enrichment (although who is a saint here? ;) ) and is published for informational and demonstration purposes only
