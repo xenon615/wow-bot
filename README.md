@@ -3,6 +3,7 @@
 ### Usage
 Run WOW.
 Choose a fishing spot
+
 It is desirable that in the field of view there are no red and blue objects and white objects, such as splashes, otherwise the bobber and splash may be found falsely. In some cases, you can comment out the blue or red color set in INI file.
 Set the first person view so that the items of equipment do not interfere with the search for the float. 
 Place the fishing spell on the first button of the command bar.
