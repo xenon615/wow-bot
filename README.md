@@ -14,5 +14,7 @@ Run the script fisher.exe
 If the float search area is not defined, the script will prompt you to select the upper left and lower right corners of the area. After that, the script will circle it with the mouse for visual control and throw the fishing rod. When a bobber feather is found, the mouse pointer will move to it and wait for a splash.
 Use F6 and  F7 to decrease or increase the sensitivity of the bobber search, respectively.
 The same for splash with ALT key pressed
+F11 - Pause
+F10 - Exit
 
 ####  The script is not intended for dishonorable enrichment (although who is a saint here? ;) ) and is published for informational and demonstration purposes only
