@@ -125,6 +125,13 @@ Func splash($mouseX, $mouseY)
             Sleep(Random(5000, 6000))
             ExitLoop
         endif
+        $pos2 = PixelSearch(($clientSize[0] / 2) - 50, 50 , ($clientSize[0] / 2) + 50, $clientSize[1] / 2, 0xffff00, 10, 2)
+        if not @error then
+            Beep(500)
+            Beep(1500)
+            Sleep(Random(1000, 2000))
+            ExitLoop
+        EndIf
         Sleep(10)
     Wend
     pole()
